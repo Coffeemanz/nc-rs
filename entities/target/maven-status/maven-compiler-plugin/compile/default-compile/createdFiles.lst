@@ -1,0 +1,8 @@
+com\zhyshkevich\entitites\ClientsEntity.class
+com\zhyshkevich\entitites\FoodEntity.class
+com\zhyshkevich\entitites\MenuEntity.class
+com\zhyshkevich\entitites\OrdersEntity.class
+com\zhyshkevich\entitites\RolesEntity.class
+com\zhyshkevich\entitites\BaseEntity.class
+com\zhyshkevich\entitites\WaitersEntity.class
+com\zhyshkevich\entitites\BillsEntity.class
